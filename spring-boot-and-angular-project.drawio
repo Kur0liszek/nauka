@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T11:18:39.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="siQWtof6tMBu09AJthtP" version="15.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-03T12:22:39.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2Q9b9-0qzR_iQdO6ZnHK" version="15.4.1" type="github" pages="3">
   <diagram id="SRsTP90Qnp9mqJ4HNF-m" name="Page-1">
     <mxGraphModel dx="964" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -156,7 +156,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JqQutTSE53bwrmBnipov-38" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;class Statistic&lt;/span&gt;&lt;/div&gt;&lt;br&gt;int id;&lt;br&gt;LocalDate date = .currentDate;&lt;br&gt;Swimmer swimmer;&lt;br&gt;StatisticType type;&lt;br&gt;Time result;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+        <mxCell id="JqQutTSE53bwrmBnipov-38" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;class Statistic&lt;/span&gt;&lt;/div&gt;&lt;br&gt;int id;&lt;br&gt;LocalDate date = .currentDate;&lt;br&gt;&lt;b&gt;Swimmer swimmer;&lt;/b&gt;&lt;br&gt;StatisticType type;&lt;br&gt;Time result;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
           <mxGeometry x="560" y="315" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JqQutTSE53bwrmBnipov-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="JqQutTSE53bwrmBnipov-1" source="JqQutTSE53bwrmBnipov-39" target="JqQutTSE53bwrmBnipov-40">
@@ -166,13 +166,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="JqQutTSE53bwrmBnipov-39" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;class Training&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;int id;&lt;br&gt;LocalDate date = currentDate;&lt;br&gt;Coach coach;&lt;br&gt;Category category;&lt;br&gt;String content;&lt;br&gt;long&amp;nbsp; amount;&lt;br&gt;&lt;b&gt;List&amp;lt;Swimmer&amp;gt; swimmers;&lt;/b&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+        <mxCell id="JqQutTSE53bwrmBnipov-39" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;class Training&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;int id;&lt;br&gt;LocalDate date = currentDate;&lt;br&gt;Category category;&lt;br&gt;String content;&lt;br&gt;long&amp;nbsp; amount;&lt;br&gt;&lt;b&gt;List&amp;lt;Swimmer&amp;gt; swimmers;&lt;/b&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
           <mxGeometry x="871" y="325" width="170" height="150" as="geometry" />
         </mxCell>
         <mxCell id="JqQutTSE53bwrmBnipov-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;" edge="1" parent="JqQutTSE53bwrmBnipov-1" source="JqQutTSE53bwrmBnipov-40" target="JqQutTSE53bwrmBnipov-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JqQutTSE53bwrmBnipov-40" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;class Swimmer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;int id;&lt;br&gt;String firstname;&lt;br&gt;String lastname;&lt;br&gt;int age;&lt;br&gt;Coach coach;&lt;br&gt;&lt;b&gt;List&amp;lt;Training&amp;gt; trainings;&lt;br&gt;List&amp;lt;Statistic&amp;gt; statistics;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+        <mxCell id="JqQutTSE53bwrmBnipov-40" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;class Swimmer&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;int id;&lt;br&gt;String firstname;&lt;br&gt;String lastname;&lt;br&gt;int age;&lt;br&gt;&lt;b&gt;Coach coach;&lt;/b&gt;&lt;br&gt;&lt;b&gt;List&amp;lt;Training&amp;gt; trainings;&lt;br&gt;List&amp;lt;Statistic&amp;gt; statistics;&lt;br&gt;&lt;/b&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;align=left;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
           <mxGeometry x="711" y="155" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="JqQutTSE53bwrmBnipov-41" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;class Coach&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div&gt;int id;&lt;/div&gt;&lt;div&gt;String firstname;&lt;/div&gt;&lt;div&gt;String lastname;&lt;/div&gt;&lt;div&gt;int age;&lt;/div&gt;&lt;div&gt;String personalInfo;&lt;/div&gt;&lt;div&gt;LocalDate joinDate;&lt;/div&gt;&lt;div&gt;&lt;b&gt;List&amp;lt;Swimmer&amp;gt; swimmers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
