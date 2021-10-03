@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T10:40:51.994Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="i9jKs2it7jInOBbzB0Ur" version="15.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-03T10:55:00.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="Dbu_GRTzA_4eL9ZK0Zfb" version="15.4.1" type="github" pages="3">
   <diagram id="SRsTP90Qnp9mqJ4HNF-m" name="Page-1">
     <mxGraphModel dx="964" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,10 +94,67 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6Zwg3aSLNkZm-FitMoJ6" name="Page-3">
-    <mxGraphModel dx="964" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="964" dy="1756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="JqQutTSE53bwrmBnipov-0" />
         <mxCell id="JqQutTSE53bwrmBnipov-1" parent="JqQutTSE53bwrmBnipov-0" />
+        <mxCell id="JqQutTSE53bwrmBnipov-2" value="TRAINING" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="160" y="80" width="270" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-3" value="CONTENT" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="174" y="110" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-4" value="AmountInput" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="284" y="180" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-5" value="AddTrainingButton" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="294" y="430" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-6" value="CatergorySelect" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="174" y="180" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-7" value="Swimmers list" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="178" y="210" width="236" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-9" value="Swimmer" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="188" y="245" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-10" value="Swimmer" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="188" y="275" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-11" value="Swimmer" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="188" y="305" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-12" value="Swimmer" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="188" y="335" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-13" value="AddStatisticButton" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="284" y="245" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-14" value="AddStatisticButton" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="284" y="275" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JqQutTSE53bwrmBnipov-1" source="JqQutTSE53bwrmBnipov-15" target="JqQutTSE53bwrmBnipov-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-15" value="AddStatisticButton" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="284" y="335" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-16" value="AddStatisticButton" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="284" y="305" width="106" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-17" value="Popup addStatistic" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="480" y="120" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-20" value="asfd" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="550" y="150" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-38" value="class Statistic&lt;br&gt;&lt;br&gt;int id;&lt;br&gt;LocalDate date = training.date;" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="850" y="120" width="200" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="JqQutTSE53bwrmBnipov-39" value="class Training&lt;br&gt;&lt;br&gt;int id;&lt;br&gt;LocalDate date = currentDate;" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
+          <mxGeometry x="810" y="-10" width="250" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
