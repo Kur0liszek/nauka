@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-03T12:22:39.563Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="2Q9b9-0qzR_iQdO6ZnHK" version="15.4.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-03T13:11:59.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="YmlZRKvbBJV6ig0qLEVO" version="15.4.1" type="github" pages="4">
   <diagram id="SRsTP90Qnp9mqJ4HNF-m" name="Page-1">
     <mxGraphModel dx="964" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -183,6 +183,17 @@
         </mxCell>
         <mxCell id="JqQutTSE53bwrmBnipov-48" value="addButton" style="whiteSpace=wrap;html=1;verticalAlign=middle;" vertex="1" parent="JqQutTSE53bwrmBnipov-1">
           <mxGeometry x="510" y="65" width="60" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2li-z9rV2Z7Pd66V6X0a" name="Page-4">
+    <mxGraphModel dx="964" dy="587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="5BfTIreNjGoISYQTU-Sq-0" />
+        <mxCell id="5BfTIreNjGoISYQTU-Sq-1" parent="5BfTIreNjGoISYQTU-Sq-0" />
+        <mxCell id="5BfTIreNjGoISYQTU-Sq-2" value="@Table(name=&quot;INVOICE&quot;)&lt;br&gt;public class Invoice }" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;" vertex="1" parent="5BfTIreNjGoISYQTU-Sq-1">
+          <mxGeometry x="100" y="80" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
